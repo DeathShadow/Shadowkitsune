@@ -17,7 +17,7 @@ status-website:
   introMessage: Shadowkitsune
   navbar:
     - title: Status
-      href: /
+      href: /Shadowkitsune
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
