@@ -15,7 +15,7 @@ status-website:
   #cname: status.shadowkitsune.net
   baseUrl: /Shadowkitsune
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Shadowkitsune Web-Site
+  name: Shadowkitsune
   introTitle: "Shadowkitsune"
   introMessage: Shadowkitsune
   navbar:
